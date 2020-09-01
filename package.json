@@ -7,7 +7,7 @@
     "start": "node server.js",
     "dev": "nodemon server.js"
   },
-  "author": "Sachin Mittal",
+  "author": "Sagar Saxena",
   "license": "MIT",
   "dependencies": {
     "express": "^4.17.1",
